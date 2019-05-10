@@ -3,8 +3,8 @@
 // KeenDataviz - Data visualisation library - https://github.com/keen/keen-dataviz.js
 
 const client = new KeenAnalysis({
-  projectId: '5011efa95f546f2ce2000000', // your Project Id
-  readKey: 'ef717eaec4aeb8e8b8b18891ffaa1eafed8c14cac1f7cb90030eaa7ed79ed2d540ee267547267c73f4c6e7ff9bcb8f7dec4df9500499a70737777d71971a20e6e3cd6532b44a44c5d269811178c2308867fd5082d44e51c05496b0099c4a06649207b8db43fe0458cf3cc059f5ecaadc' // your Write key
+  projectId: '000', // your Project Id
+  readKey: '000' // your Write key
 });
 
 // You an replace this timeframe with other relative timeframes
